@@ -1,4 +1,4 @@
-const baseUrl = 'http://localhost:3000'; 
+const baseUrl = 'https://project-50n3.onrender.com'; 
 
 document.getElementById('loginForm')?.addEventListener('submit', function (e) {
     e.preventDefault();
